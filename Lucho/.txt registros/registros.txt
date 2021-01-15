@@ -1,0 +1,7 @@
+Rodrigo Puentes;Automovil;HJGK90;11:30;12:30
+Nicolas Sepulveda;Automovil;FVBE60;10:30;12:15
+Ariel Roman;Camioneta;FALH15;13:30;15:15
+Marcelo Costa;Moto;GHBF54;14:40;14:55
+Valentina Reyes;Camioneta;ALFY87;16:45;19:30
+Sofia Zenteno;Moto;LLYG34;15:50;18:45
+Fernando Torres;Automovil;RFDE51;14:40;19:30

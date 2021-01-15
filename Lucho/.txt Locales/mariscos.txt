@@ -1,0 +1,2 @@
+Locales de tipo mariscos que están a distancia 10 o menos:
+	La CevicherÃ­a, calificación 4.5, precio: $$$$$.

@@ -1,0 +1,3 @@
+1 - El vehiculo de Fernando Torres con patente RFDE51 estuvo estacionado 290 minutos.
+2 - El vehiculo de Nicolas Sepulveda con patente FVBE60 estuvo estacionado 105 minutos.
+3 - El vehiculo de Rodrigo Puentes con patente HJGK90 estuvo estacionado 60 minutos.

@@ -1,0 +1,4 @@
+Locales de tipo hamburguesas que están a distancia 10 o menos:
+	Burger King, calificación 3.4, precio: $.
+	McDonald's, calificación 3.2, precio: $.
+	Ruby Tuesday, calificación 4.5, precio: $$$$.

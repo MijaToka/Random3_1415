@@ -1,0 +1,3 @@
+Locales de tipo italiano que están a distancia 10 o menos:
+	Lasagna Factory, calificación 2.5, precio: $$.
+	Il Mascarpone, calificación 4.5, precio: $$$$.

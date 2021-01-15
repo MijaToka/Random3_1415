@@ -1,0 +1,3 @@
+Locales de tipo sushi que están a distancia 10 o menos:
+	NIU Sushi, calificación 4.5, precio: $$$.
+	Sakura, calificación 4.3, precio: $$$$$.

@@ -1,0 +1,7 @@
+Locales de tipo pizza que están a distancia 10 o menos:
+	Telepizza, calificación 2.9, precio: $.
+	Little Caesars Pizza, calificación 4.0, precio: $.
+	Domino's Pizza, calificación 3.9, precio: $$.
+	Melt Pizzas, calificación 3.5, precio: $$.
+	Pizza Hut, calificación 4.2, precio: $$$.
+	Papa John's, calificación 4.1, precio: $$$$.

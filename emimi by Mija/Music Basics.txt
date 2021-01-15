@@ -1,0 +1,9 @@
+Tempo: Valor espacifico del ritmo de una cancion/obre/etc(e.g.: negra = 100 bpm)
+Ritmo/Rythm : Combinacion de figuras que denotan la duracion de una nota
+Figuras: {https://www.vinummedia.com/web/wp-content/uploads/2016/10/arbol-figuras-1.jpg} Es importante destacar que cuando vez una figuera con punto significa que le agregas la mitad de su valor e.g. negra con punto dura 1½ tiempos.
+Nota: Sonido individual que tiene una frecuencia/pitch
+{https://guitarristapasoapaso.com/wp-content/uploads/2018/10/Notas-musicales-en-clave-de-Sol-bona-compressor-1-1024x218.png} lo mas probable es que no uses esa notacion pero es bueno concerla
+Acorde: Conjunto de 3 o mas notas que producen una armonía.
+Arpegio/Arpeggio: Foma de ejecutar un acorde donde uno toca cada nota por separado (rapido[e.g. harpa] o lento)
+Escalas: Conjunto de notas siguen una estructura hamonica entre cada una (e.g. Escala de Do mayor = Do ,Re, Mi, Fa, Sol, La, Si, do; donde todas las notas estan separadas por un tono excepto mi-fa y si-do donde hay una separacion de ½ tono) Existen multiples escalas para cada nota Tonica/Inicial/Basal
+Intervalo: Distancia entre 2 notas (en oxidente se mide en semitonos y tonos, pero la notacion es rara, ask for more)

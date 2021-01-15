@@ -1,0 +1,5 @@
+Locales de tipo comida china que están a distancia 10 o menos:
+	China Express, calificación 2.9, precio: $.
+	Restaurant Ming Feng, calificación 3.9, precio: $$.
+	P.F. Chang's, calificación 4.9, precio: $$$$.
+	Nueva China, calificación 4.9, precio: $$$$$.

@@ -1,0 +1,4 @@
+Mijail;Automovil;SA1460;10:30;11:20
+Pablo;Moto;JKL420;12:12;15:00
+Luis;Automovil;CPYT45;13:30;14:10
+Emi;Moto;KL5460;09:00;12:05

@@ -25,13 +25,14 @@ champLst = lineLst(CHAMPS)
 itemLst = lineLst(ITEMS); rand.shuffle(itemLst)
 rand.shuffle(ROLES)
 
+print('Ingrese Jugadores')
 
 playerLst = []
-
 for _ in range(5):
     player = input('')
     if player == '': break
     playerLst.append(player)
+print('')
 
 n_players = len(playerLst)
 
@@ -42,3 +43,4 @@ pickedRoles = ROLES[:n_players]
 for i,_ in enumerate(playerLst):
     print(f'{playerLst[i]}: {pickedChamps[i]} rushing {pickedItems[i]} in {pickedRoles[i]}')
 
+input('\nPresione Enter para salir')

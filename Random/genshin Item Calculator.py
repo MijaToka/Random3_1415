@@ -69,6 +69,6 @@ talentLvl = [[3,6],[21,22]]
 
 charItems = [gem,boss,speciality,common,talent]
 
-    for i,item in enumerate(charItems[:-1]):
-        for tier in range(item.maxTier):
-            item.addAmount()
+for i,item in enumerate(charItems[:-1]):
+    for tier in range(item.maxTier):
+        item.addAmount()

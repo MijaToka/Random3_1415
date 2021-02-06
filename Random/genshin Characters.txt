@@ -1,0 +1,29 @@
+Albedo;Prithiva Topaz;Basalt Pillar;Cecilia;Scroll;Book of Ballad
+Amber;Agnidus Agate;Everflame Seed;Small Lamp Grass;Arrowhead;Book of Freedom
+Barbara;Varunada Lazurite;Cleansing Heart;Philanemo Mushroom;Scroll;Book of Freedom
+Beidou;Vajrada Amethyst;Lightning Prism;Noctilucous Jade;Treasure Hoarders Insignia;Book of Gold
+Bennett;Agnidus Agate;Everflame Seed;Windwheel Aster;Treasure Hoarders Insignia;Book of Resistance
+Chongyun;Shivada Jade;Hoarfrost Core;Cor Lapis;Mask;Book of Diligence
+Diluc;Agnidus Agate;Everflame Seed;Small Lamp Grass;Fatui Insignia;Book of Resistance
+Diona;Shivada Jade;Hoarfrost Core;Calla Lily;Arrowhead;Book of Freedom
+Fischl;Vajrada Amethyst;Lightning Prism;Small Lamp Grass;Arrowhead;Book of Ballad
+Ganyu;Shivada Jade;Hoarfrost Core;Qingxin;Nectar;Book of Diligence
+Jean;Vayuda Turquoise;Hurricane Seed;Dandelion Seed;Mask;Book of Resistance
+Kaeya;Shivada Jade;Hoarfrost Core;Calla Lily;Treasure Hoarders Insignia;Book of Ballad
+Keqing;Vajrada Amethyst;Lightning Prism;Cor Lapis;Nectar;Book of Prosperity
+Klee;Agnidus Agate;Everflame Seed;Philanemo Mushroom;Scroll;Book of Freedom
+Lisa;Vajrada Amethyst;Lightning Prism;Valberry;Slime;Book of Ballad
+Mona;Varunada Lazurite;Cleansing Heart;Philanemo Mushroom;Nectar;Book of Resistance
+Ningguang;Prithiva Topaz;Basalt Pillar;Glaze Lily;Fatui Insignia;Book of Prosperity
+Noelle;Prithiva Topaz;Basalt Pillar;Valberry;Mask;Book of Resistance
+Qiqi;Shivada Jade;Hoarfrost Core;Violetgrass;Scroll;Book of Prosperity
+Razor;Vajrada Amethyst;Lightning Prism;Wolfhook;Mask;Book of Resistance
+Sucrose;Vayuda Turquoise;Hurricane Seed;Windwheel Aster;Nectar;Book of Freedom
+Tartaglia;Varunada Lazurite;Cleansing Heart;Starconch;Fatui Insignia;Book of Freedom
+Traveler;Brilliant Diamond;None;Windwheel Aster;Mask;All
+Venti;Vayuda Turquoise;Hurricane Seed;Cecilia;Slime;Book of Ballad
+Xiangling;Agnidus Agate;Everflame Seed;Jueyun Chili;Slime;Book of Diligence
+Xiao;Vayuda Turquoise;Juvenile Jade;Qingxin;Slime;Book of Prosperity
+Xingqiu;Varunada Lazurite;Cleansing Heart;Silk Flower;Mask;Book of Gold
+Xinyan;Agnidus Agate;Everflame Seed;Violetgrass;Treasure Hoarders Insignia;Book of Gold
+Zhongli;Prithiva Topaz;Basalt Pillar;Cor Lapis;Slime;Book of Gold

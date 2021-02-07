@@ -1,29 +1,29 @@
-Albedo;Prithiva Topaz;Basalt Pillar;Cecilia;Scroll;Book of Ballad
-Amber;Agnidus Agate;Everflame Seed;Small Lamp Grass;Arrowhead;Book of Freedom
-Barbara;Varunada Lazurite;Cleansing Heart;Philanemo Mushroom;Scroll;Book of Freedom
-Beidou;Vajrada Amethyst;Lightning Prism;Noctilucous Jade;Treasure Hoarders Insignia;Book of Gold
-Bennett;Agnidus Agate;Everflame Seed;Windwheel Aster;Treasure Hoarders Insignia;Book of Resistance
-Chongyun;Shivada Jade;Hoarfrost Core;Cor Lapis;Mask;Book of Diligence
-Diluc;Agnidus Agate;Everflame Seed;Small Lamp Grass;Fatui Insignia;Book of Resistance
-Diona;Shivada Jade;Hoarfrost Core;Calla Lily;Arrowhead;Book of Freedom
-Fischl;Vajrada Amethyst;Lightning Prism;Small Lamp Grass;Arrowhead;Book of Ballad
-Ganyu;Shivada Jade;Hoarfrost Core;Qingxin;Nectar;Book of Diligence
-Jean;Vayuda Turquoise;Hurricane Seed;Dandelion Seed;Mask;Book of Resistance
-Kaeya;Shivada Jade;Hoarfrost Core;Calla Lily;Treasure Hoarders Insignia;Book of Ballad
-Keqing;Vajrada Amethyst;Lightning Prism;Cor Lapis;Nectar;Book of Prosperity
-Klee;Agnidus Agate;Everflame Seed;Philanemo Mushroom;Scroll;Book of Freedom
-Lisa;Vajrada Amethyst;Lightning Prism;Valberry;Slime;Book of Ballad
-Mona;Varunada Lazurite;Cleansing Heart;Philanemo Mushroom;Nectar;Book of Resistance
-Ningguang;Prithiva Topaz;Basalt Pillar;Glaze Lily;Fatui Insignia;Book of Prosperity
-Noelle;Prithiva Topaz;Basalt Pillar;Valberry;Mask;Book of Resistance
-Qiqi;Shivada Jade;Hoarfrost Core;Violetgrass;Scroll;Book of Prosperity
-Razor;Vajrada Amethyst;Lightning Prism;Wolfhook;Mask;Book of Resistance
-Sucrose;Vayuda Turquoise;Hurricane Seed;Windwheel Aster;Nectar;Book of Freedom
-Tartaglia;Varunada Lazurite;Cleansing Heart;Starconch;Fatui Insignia;Book of Freedom
-Traveler;Brilliant Diamond;None;Windwheel Aster;Mask;All
-Venti;Vayuda Turquoise;Hurricane Seed;Cecilia;Slime;Book of Ballad
-Xiangling;Agnidus Agate;Everflame Seed;Jueyun Chili;Slime;Book of Diligence
-Xiao;Vayuda Turquoise;Juvenile Jade;Qingxin;Slime;Book of Prosperity
-Xingqiu;Varunada Lazurite;Cleansing Heart;Silk Flower;Mask;Book of Gold
-Xinyan;Agnidus Agate;Everflame Seed;Violetgrass;Treasure Hoarders Insignia;Book of Gold
-Zhongli;Prithiva Topaz;Basalt Pillar;Cor Lapis;Slime;Book of Gold
+Albedo;Prithiva Topaz;Basalt Pillar;Cecilia;Scroll;Book of Ballad;Tusk of Monoceros Caeli
+Amber;Agnidus Agate;Everflame Seed;Small Lamp Grass;Arrowhead;Book of Freedom;Dvalin's Sigh
+Barbara;Varunada Lazurite;Cleansing Heart;Philanemo Mushroom;Scroll;Book of Freedom;Ring of Boreas
+Beidou;Vajrada Amethyst;Lightning Prism;Noctilucous Jade;Treasure Hoarders Insignia;Book of Gold;Dvalin's Sigh
+Bennett;Agnidus Agate;Everflame Seed;Windwheel Aster;Treasure Hoarders Insignia;Book of Resistance;Dvalin's Plume
+Chongyun;Shivada Jade;Hoarfrost Core;Cor Lapis;Mask;Book of Diligence;Dvalin's Sigh
+Diluc;Agnidus Agate;Everflame Seed;Small Lamp Grass;Fatui Insignia;Book of Resistance;Dvalin's Plume
+Diona;Shivada Jade;Hoarfrost Core;Calla Lily;Arrowhead;Book of Freedom;Shard of a Foul Legacy
+Fischl;Vajrada Amethyst;Lightning Prism;Small Lamp Grass;Arrowhead;Book of Ballad;Spirit Locket of Boreas
+Ganyu;Shivada Jade;Hoarfrost Core;Qingxin;Nectar;Book of Diligence;Shadow of the Warrior
+Jean;Vayuda Turquoise;Hurricane Seed;Dandelion Seed;Mask;Book of Resistance;Dvalin's Plume
+Kaeya;Shivada Jade;Hoarfrost Core;Calla Lily;Treasure Hoarders Insignia;Book of Ballad;Spirit Locket of Boreas
+Keqing;Vajrada Amethyst;Lightning Prism;Cor Lapis;Nectar;Book of Prosperity;Ring of Boreas
+Klee;Agnidus Agate;Everflame Seed;Philanemo Mushroom;Scroll;Book of Freedom;Ring of Boreas
+Lisa;Vajrada Amethyst;Lightning Prism;Valberry;Slime;Book of Ballad;Dvalin's Claw
+Mona;Varunada Lazurite;Cleansing Heart;Philanemo Mushroom;Nectar;Book of Resistance;Ring of Boreas
+Ningguang;Prithiva Topaz;Basalt Pillar;Glaze Lily;Fatui Insignia;Book of Prosperity;Spirit Locket of Boreas
+Noelle;Prithiva Topaz;Basalt Pillar;Valberry;Mask;Book of Resistance;Dvalin's Claw
+Qiqi;Shivada Jade;Hoarfrost Core;Violetgrass;Scroll;Book of Prosperity;Tail of Boreas
+Razor;Vajrada Amethyst;Lightning Prism;Wolfhook;Mask;Book of Resistance;Dvalin's Claw
+Sucrose;Vayuda Turquoise;Hurricane Seed;Windwheel Aster;Nectar;Book of Freedom;Spirit Locket of Boreas
+Tartaglia;Varunada Lazurite;Cleansing Heart;Starconch;Fatui Insignia;Book of Freedom;Shard of a Foul Legacy
+Traveler;Brilliant Diamond;None;Windwheel Aster;Mask;All:Dvalin's Sigh/Tail of Boreas
+Venti;Vayuda Turquoise;Hurricane Seed;Cecilia;Slime;Book of Ballad;Tail of Boreas
+Xiangling;Agnidus Agate;Everflame Seed;Jueyun Chili;Slime;Book of Diligence;Dvalin's Claw
+Xiao;Vayuda Turquoise;Juvenile Jade;Qingxin;Slime;Book of Prosperity;Shadow of the Warrior
+Xingqiu;Varunada Lazurite;Cleansing Heart;Silk Flower;Mask;Book of Gold;Tail of Boreas
+Xinyan;Agnidus Agate;Everflame Seed;Violetgrass;Treasure Hoarders Insignia;Book of Gold;Tusk of Monoceros Caeli
+Zhongli;Prithiva Topaz;Basalt Pillar;Cor Lapis;Slime;Book of Gold;Tusk of Monoceros Caeli

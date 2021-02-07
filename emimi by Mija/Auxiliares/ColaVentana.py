@@ -45,8 +45,9 @@ botonAtender = Button(ventana,text='Atender',command=atender)
 enCaja = Label(ventana)
 enCola = Label(ventana)
 cupos = Label(ventana,text=str(Cola.largoMax()-Cola.largo()))
-llega = Entry(ventana)
 estado = Label(ventana,text='Vacia')
+
+llega = Entry(ventana)
 
 txtBoton = Label(ventana,text='Caja',width=10)
 txtenCaja = Label(ventana,text='en Caja',width=10)

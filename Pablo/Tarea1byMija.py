@@ -1,5 +1,5 @@
 
-import random as r
+#import random as r
 #Debido a que los numeros en español se nombran de a grupos de 1000
 #Hago una funcion que nombre los números en este orden
 
@@ -72,7 +72,10 @@ def Numeros(num):
     return palabras
 
 
-for _ in range(10):
-    num = r.randint(0,(10**9) - 1)
-    print(Numeros(num))
-print(Numeros(101001011))
+# for _ in range(10):
+#     num = r.randint(0,(10**9) - 1)
+#     print(Numeros(num))
+# print(Numeros(101001011))
+
+print(Numeros(int(input('Inserte el numero que para escribir (sin puntos ni espacios)\n'))))
+input('')
